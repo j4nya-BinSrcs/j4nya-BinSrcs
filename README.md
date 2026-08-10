@@ -1,4 +1,4 @@
-## Hi there 👋
+# Janya Kansara
 
 <!--
 **j4nya-BinSrcs/j4nya-BinSrcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
