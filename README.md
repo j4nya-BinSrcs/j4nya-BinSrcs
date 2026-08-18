@@ -1,96 +1,74 @@
 <!-- j4nya-BinSrcs/j4nya-BinSrcs · special profile repository -->
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/neofetch-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/neofetch-light.svg"
-  >
-  <img
-    src="./assets/neofetch-light.svg"
-    alt="Janya Kansara — Software Engineer · Fullstack · Developer Tools"
-    width="100%"
-  >
-</picture>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/portrait.png" alt="ASCII portrait of Janya Kansara" width="250">
+    </td>
+    <td valign="middle">
+      <pre>
+<b>JANYA KANSARA</b>
+Software Engineer · Fullstack · Developer Tools
 
-```text
-> currently_building
-```
+🖥️  OS        Arch Linux
+🪟  WM        Hyprland
+🐚  SHELL     Ghostty
+📍  LOCATION  Ahmedabad, India
+🎯  FOCUS     Search / Systems / Tools
 
-### [Qwry](https://github.com/j4nya-BinSrcs/qwry) — Self-Hostable Search Engine
+🐍  LANGUAGES Python · Java · TS · Rust
+🗄️  BACKEND   FastAPI · PostgreSQL · Valkey
+🎨  FRONTEND  React · HTML/CSS
+🔧  TOOLS     Git · Linux · Docker · Tantivy
 
-Privacy-focused and self-hostable. Qwry combines federated web search with a
-custom indexing engine and an interactive research workspace, built for power
-users who want their own search stack.
+🧠  INTERESTS Search &amp; IR · Backend · Tools
+             Graphics · Performance · Linux
+      </pre>
+    </td>
+  </tr>
+</table>
 
-`38K+` indexed documents · `~70` search providers · `~230ms` average search latency
+---
 
-**Rust** · Tantivy · **FastAPI** · React · PostgreSQL · Valkey · SearXNG
+## 📦 Currently Building
 
-```text
-> engineering_interests
-```
+**Qwry** — self-hostable search engine. Federated web search + custom indexing + an interactive research workspace.
 
-```
-Search & Information Retrieval
-Developer Tools
-Backend Systems
-Computer Graphics
-Performance Engineering
-Linux & Developer Environments
-```
+`38K+` docs · `~70` providers · `~230ms` latency — Rust · Tantivy · FastAPI · React · PostgreSQL · Valkey
 
-```text
-> stack
-```
+---
 
-| Languages                    | Backend & Data                          | Frontend           |
-| ---------------------------- | --------------------------------------- | ------------------ |
-| Python · Java · JavaScript   | FastAPI · Django · SQLAlchemy           | React · HTML · CSS |
-| TypeScript · Rust · SQL      | PostgreSQL · SQLite · MySQL · MongoDB   | Tailwind CSS       |
+## 🧠 Engineering Interests
 
-```text
-                           Systems & Tooling
-```
-Linux · Git · Docker · Tantivy · SearXNG · OpenCV
+Search & Information Retrieval · Developer Tools · Backend Systems · Computer Graphics · Performance Engineering · Linux
 
-```text
-> contribution_activity
-```
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-green-animate.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green-animate.svg"
-  >
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="Janya Kansara's GitHub contribution graph (auto-generated daily)"
-    width="100%"
-  >
-</picture>
+## 🛠️ Stack
 
-*Generated automatically from real contribution data via
-`yoshi389111/github-profile-3d-contrib`.*
+| Languages | Backend & Data | Frontend |
+|---|---|---|
+| Python · Java · JavaScript · TypeScript · Rust · SQL | FastAPI · Django · PostgreSQL · SQLite · MySQL · MongoDB · Valkey · SQLAlchemy | React · HTML · CSS · Tailwind CSS |
 
-```text
-> currently_learning
-```
+*Systems & Tooling:* Linux · Git · Docker · Tantivy · SearXNG · OpenCV
+
+---
+
+## 📈 Contribution Activity
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="100%">
+
+*Generated automatically from real contribution data via `yoshi389111/github-profile-3d-contrib`.*
+
+---
+
+## 🌱 Currently Learning
 
 Rust · Search Indexing · Agentic Systems · Rendering Pipelines · Performance Engineering
 
 ---
 
-```text
-> connect
-```
+## 📬 Connect
 
 [GitHub](https://github.com/j4nya-BinSrcs) · [LinkedIn](https://www.linkedin.com/in/janya-kansara-6b718a3a0/) · [kansarajanya@gmail.com](mailto:kansarajanya@gmail.com)
 
