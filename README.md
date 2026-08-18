@@ -1,6 +1,6 @@
 <!-- j4nya-BinSrcs/j4nya-BinSrcs · special profile repository -->
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <img src="./assets/portrait.png" alt="ASCII portrait of Janya Kansara" width="250">
@@ -44,15 +44,18 @@ Search & Information Retrieval · Developer Tools · Backend Systems · Computer
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="58%">
-</p>
-
-*Generated automatically from real contribution data via `yoshi389111/github-profile-3d-contrib`.*
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="./profile-3d-contrib/contrib-graph.svg" alt="GitHub contribution calendar (auto-generated daily)" width="100%">
+    </td>
+    <td align="center">
+      <img src="./profile-3d-contrib/contrib-stats.svg" alt="GitHub activity stats (auto-generated daily)" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📬 Connect
 
 <p align="center">
   <a href="https://github.com/j4nya-BinSrcs">

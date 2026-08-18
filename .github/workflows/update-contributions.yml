@@ -28,6 +28,9 @@ jobs:
       - name: Clean up contribution graph
         run: python .github/scripts/cleanup_graph.py profile-3d-contrib/profile-night-rainbow.svg
 
+      - name: Split into graph & stats SVGs
+        run: python .github/scripts/split_graph.py profile-3d-contrib/profile-night-rainbow.svg
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
