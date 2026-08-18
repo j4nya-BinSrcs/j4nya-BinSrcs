@@ -41,7 +41,7 @@ def _wrap(svg: str, view_box: str, title: str) -> str:
 
 def _remove_footer_count(svg: str) -> str:
     s = svg
-    m = re.search(r'<text[^>]*?x="384"[^>]*>287</text>', s)
+    m = re.search(r'<text[^>]*?x="384"[^>]*>\d+</text>', s)
     if m:
         s = s[:m.start()] + s[m.end():]
     m = re.search(r'<text[^>]*?x="394"[^>]*>contributions</text>', s)

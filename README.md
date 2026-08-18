@@ -30,18 +30,6 @@ Software Engineer · Fullstack · Developer Tools
 
 ---
 
-## 🧠 Skills & Interests
-
-Search & Information Retrieval · Developer Tools · Backend Systems · Computer Graphics · Performance Engineering · Linux
-
-| Languages | Backend & Data | Frontend |
-|---|---|---|
-| Python · Java · JavaScript · TypeScript · Rust · SQL | FastAPI · Django · PostgreSQL · SQLite · MySQL · MongoDB · Valkey · SQLAlchemy | React · HTML · CSS · Tailwind CSS |
-
-*Systems & Tooling:* Linux · Git · Docker · Tantivy · SearXNG · OpenCV
-
----
-
 ## 📈 Contribution Activity
 
 <table width="100%">
