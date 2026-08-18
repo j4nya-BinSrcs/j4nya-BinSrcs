@@ -30,14 +30,6 @@ Software Engineer · Fullstack · Developer Tools
 
 ---
 
-## 📦 Currently Building
-
-**Qwry** — self-hostable search engine. Federated web search + custom indexing + an interactive research workspace.
-
-`38K+` docs · `~70` providers · `~230ms` latency — Rust · Tantivy · FastAPI · React · PostgreSQL · Valkey
-
----
-
 ## 🧠 Engineering Interests
 
 Search & Information Retrieval · Developer Tools · Backend Systems · Computer Graphics · Performance Engineering · Linux
@@ -54,23 +46,40 @@ Search & Information Retrieval · Developer Tools · Backend Systems · Computer
 
 ---
 
-## 📈 Contribution Activity
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="100%">
-
-*Generated automatically from real contribution data via `yoshi389111/github-profile-3d-contrib`.*
-
----
-
 ## 🌱 Currently Learning
 
 Rust · Search Indexing · Agentic Systems · Rendering Pipelines · Performance Engineering
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="70%">
+</p>
+
+*Generated automatically from real contribution data via `yoshi389111/github-profile-3d-contrib`.*
+
+---
+
 ## 📬 Connect
 
-[GitHub](https://github.com/j4nya-BinSrcs) · [LinkedIn](https://www.linkedin.com/in/janya-kansara-6b718a3a0/) · [kansarajanya@gmail.com](mailto:kansarajanya@gmail.com)
+<p align="center">
+  <a href="https://github.com/j4nya-BinSrcs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/janya-kansara-6b718a3a0/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28">
+  </a>
+  &nbsp;
+  <a href="mailto:kansarajanya@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28">
+  </a>
+</p>
 
 <!-- Portfolio URL not finalized — add here when available:
 [Portfolio](https://your-domain.dev)

@@ -25,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Remove language legend & pie chart
+        run: python .github/scripts/strip_lang_pie.py profile-3d-contrib/profile-night-rainbow.svg
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
