@@ -30,13 +30,9 @@ Software Engineer · Fullstack · Developer Tools
 
 ---
 
-## 🧠 Engineering Interests
+## 🧠 Skills & Interests
 
 Search & Information Retrieval · Developer Tools · Backend Systems · Computer Graphics · Performance Engineering · Linux
-
----
-
-## 🛠️ Stack
 
 | Languages | Backend & Data | Frontend |
 |---|---|---|
@@ -46,16 +42,10 @@ Search & Information Retrieval · Developer Tools · Backend Systems · Computer
 
 ---
 
-## 🌱 Currently Learning
-
-Rust · Search Indexing · Agentic Systems · Rendering Pipelines · Performance Engineering
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="70%">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Janya Kansara's GitHub contribution graph (auto-generated daily)" width="58%">
 </p>
 
 *Generated automatically from real contribution data via `yoshi389111/github-profile-3d-contrib`.*
@@ -66,18 +56,15 @@ Rust · Search Indexing · Agentic Systems · Rendering Pipelines · Performance
 
 <p align="center">
   <a href="https://github.com/j4nya-BinSrcs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-      <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28">
-    </picture>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/janya-kansara-6b718a3a0/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:kansarajanya@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
