@@ -30,8 +30,6 @@ Software Engineer · Fullstack · Developer Tools
 
 ---
 
-## 📈 Contribution Activity
-
 <table width="100%">
   <tr>
     <td align="center">

@@ -25,11 +25,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Convert graph to greyscale animation
+        run: python .github/scripts/greyscale_graph.py profile-3d-contrib/profile-night-rainbow.svg
+
       - name: Clean up contribution graph
-        run: python .github/scripts/cleanup_graph.py profile-3d-contrib/profile-night-green.svg
+        run: python .github/scripts/cleanup_graph.py profile-3d-contrib/profile-night-rainbow.svg
 
       - name: Split into graph & stats SVGs
-        run: python .github/scripts/split_graph.py profile-3d-contrib/profile-night-green.svg
+        run: python .github/scripts/split_graph.py profile-3d-contrib/profile-night-rainbow.svg
 
       - name: Commit & Push
         run: |
