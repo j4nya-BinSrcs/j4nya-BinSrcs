@@ -7,19 +7,19 @@
     </td>
     <td valign="middle">
       <pre>
-<b>JANYA KANSARA</b>
-Software Engineer · Fullstack · Developer Tools
-🖥️  OS        Arch Linux
-🪟  WM        Hyprland
-🐚  SHELL     Ghostty
-📍  LOCATION  Ahmedabad, India
-🎯  FOCUS     Search / Systems / Tools
+---
+<b>Janya Kansara</b>
+
+📍  Location           Gujarat, India
+🖥️  Environment        Arch Linux + Hyprland
+
 🐍  LANGUAGES Python · Java · TS · Rust
 🗄️  BACKEND   FastAPI · PostgreSQL · Valkey
 🎨  FRONTEND  React · HTML/CSS
-🔧  TOOLS     Git · Linux · Docker · Tantivy
-🧠  INTERESTS Search &amp; IR · Backend · Tools
-             Graphics · Performance · Linux
+🔧  TOOLS     Git · Linux · Docker · Tantivy 
+
+🧠  INTERESTS         Search &amp; IR · Backend · Tools · Graphics · Performance · Linux
+---
       </pre>
     </td>
   </tr>
