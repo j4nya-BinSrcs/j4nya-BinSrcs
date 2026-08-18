@@ -7,7 +7,6 @@
     </td>
     <td valign="middle">
       <pre>
----
 <b>Janya Kansara</b>
 
 📍  Location           Gujarat, India
@@ -19,7 +18,6 @@
 🔧  TOOLS     Git · Linux · Docker · Tantivy 
 
 🧠  INTERESTS         Search &amp; IR · Backend · Tools · Graphics · Performance · Linux
----
       </pre>
     </td>
   </tr>
