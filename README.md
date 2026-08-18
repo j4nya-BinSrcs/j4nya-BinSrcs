@@ -33,10 +33,10 @@ Software Engineer · Fullstack · Developer Tools
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="./profile-3d-contrib/contrib-graph.svg" alt="GitHub contribution calendar (auto-generated daily)" width="100%">
+      <img src="./profile-3d-contrib/contrib-graph.svg?v=2" alt="GitHub contribution calendar (auto-generated daily)" width="100%">
     </td>
     <td align="center">
-      <img src="./profile-3d-contrib/contrib-stats.svg" alt="GitHub activity stats (auto-generated daily)" width="100%">
+      <img src="./profile-3d-contrib/contrib-stats.svg?v=2" alt="GitHub activity stats (auto-generated daily)" width="100%">
     </td>
   </tr>
 </table>
