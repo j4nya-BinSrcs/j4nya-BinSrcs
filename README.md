@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="./assets/portrait.png" alt="ASCII portrait of Janya Kansara" width="250">
+      <img src="./assets/ascii.png" alt="ASCII portrait of Janya Kansara" width="250">
     </td>
     <td valign="middle">
       <pre>
