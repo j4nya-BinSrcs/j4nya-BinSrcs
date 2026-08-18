@@ -9,26 +9,21 @@
       <pre>
 <b>JANYA KANSARA</b>
 Software Engineer · Fullstack · Developer Tools
-
 🖥️  OS        Arch Linux
 🪟  WM        Hyprland
 🐚  SHELL     Ghostty
 📍  LOCATION  Ahmedabad, India
 🎯  FOCUS     Search / Systems / Tools
-
 🐍  LANGUAGES Python · Java · TS · Rust
 🗄️  BACKEND   FastAPI · PostgreSQL · Valkey
 🎨  FRONTEND  React · HTML/CSS
 🔧  TOOLS     Git · Linux · Docker · Tantivy
-
 🧠  INTERESTS Search &amp; IR · Backend · Tools
              Graphics · Performance · Linux
       </pre>
     </td>
   </tr>
 </table>
-
----
 
 <table width="100%">
   <tr>

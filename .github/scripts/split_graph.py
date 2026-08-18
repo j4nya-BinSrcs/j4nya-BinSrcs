@@ -85,7 +85,7 @@ def split_graph(path: str) -> None:
     graph = _remove_group(svg, radar_group)
     graph = _remove_footer_count(graph)
     graph = _remove_group(graph, '<g transform="translate(40, 520)">')
-    graph = _wrap(graph, "0 110 1280 740", "GitHub contribution calendar")
+    graph = _wrap(graph, "0 170 1280 630", "GitHub contribution calendar")
     out_graph = path.rsplit("/", 1)[0] + "/contrib-graph.svg"
     with open(out_graph, "w", encoding="utf-8") as fh:
         fh.write(graph)
@@ -94,7 +94,7 @@ def split_graph(path: str) -> None:
     stats = _remove_calendar_cells(svg)
     stats = _remove_footer_count(stats)
     stats = _remove_group(stats, '<g transform="translate(40, 520)">')
-    stats = _wrap(stats, "750 50 460 460", "GitHub activity stats")
+    stats = _wrap(stats, "760 80 440 380", "GitHub activity stats")
     out_stats = path.rsplit("/", 1)[0] + "/contrib-stats.svg"
     with open(out_stats, "w", encoding="utf-8") as fh:
         fh.write(stats)
